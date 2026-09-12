@@ -47,8 +47,12 @@ The project analyzes a marketing analytics business case involving customer enga
 
 ## Dashboard
 
-The Power BI dashboard and supporting assets will be added to the repository as the project is finalized.
+## OVERVIEW PAGE
+<img width="1310" height="735" alt="image" src="https://github.com/user-attachments/assets/641c6adb-b932-40c7-9d15-61ee53ab4d3b" />
+## CONVERSION DETAILS
+<img width="1302" height="736" alt="image" src="https://github.com/user-attachments/assets/7c4e5e68-e15e-40cd-8683-f293ecd8e25d" />
+## SOCIAL MEDIA DETAILS
+<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/5c19e602-680c-4daa-a9a2-0eea91c335ef" />
+# CUSTOMER REVIEW DETAILS
+<img width="1305" height="732" alt="image" src="https://github.com/user-attachments/assets/504ea20b-641a-4946-a124-7f21cfc6e871" />
 
-## Note
-
-The Snowflake SQL implementation will be added to the `snowflake/` section and expanded later as the complete SQL scripts are provided.
